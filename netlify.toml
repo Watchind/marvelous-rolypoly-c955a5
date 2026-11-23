@@ -1,2 +1,3 @@
+# redeploy: pick up Telegram notify env vars
 [build]
   functions = "netlify/functions"
